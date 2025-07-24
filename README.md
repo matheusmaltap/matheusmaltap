@@ -23,15 +23,15 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 ## 🏆 Certificações
 
 <p align="left">
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_1" alt="Databricks Data Engineer Associate" height="100"/>
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_2" alt="Lakehouse Fundamentals" height="100"/>
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_3" alt="DP-600 Fabric Analytics" height="100"/>
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_4" alt="DP-900 Azure Data Fundamentals" height="100"/>
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_5" alt="AZ-900 Azure Fundamentals" height="100"/>
-  <img src="https://github.com/matheusmalta/matheusmalta/assets/your_image_id_6" alt="ITIL 4 Foundation" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/databricks.png" alt="Databricks Data Engineer Associate" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/fundamentals-badge-databricks-2x_1.png" alt="Lakehouse Fundamentals" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/DP-600.png" alt="DP-600 Fabric Analytics" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/img002_dp900.png" alt="DP-900 Azure Data Fundamentals" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/d27b805a37d9f94959a770b91175142b.png" alt="AZ-900 Azure Fundamentals" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/twitter_thumb_201604_image.png" alt="ITIL 4 Foundation" height="100"/>
 </p>
 
-> 💡 **Dica**: Suba os arquivos de imagem dos certificados reais ou suas versões em PNG no seu repositório `matheusmalta`, e substitua `your_image_id_X` pelo caminho ou URL correto da imagem no GitHub (ex: `assets/certificacoes/databricks-dea.png`).
+> 💡 Databricks Data Engineer Associate, Lakehouse Fundamentals, DP-600 Fabric Analytics, DP-900 Azure Data Fundamentals, AZ-900 Azure Fundamentals, ITIL 4 Foundation.
 
 ---
 
@@ -52,13 +52,8 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 
 ---
 
----
-
 ## 📊 GitHub Status
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmaltap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaltap&layout=compact&theme=dracula"/>
 </p>
-
-
