@@ -52,10 +52,13 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 
 ---
 
-## 📍 Localização
-
-Barretos/SP – Brasil  
-Idioma: 🇧🇷 Português | 🇺🇸 Inglês (B1) | 🇪🇸 Espanhol (B2)
-
 ---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmaltap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaltap&layout=compact&theme=dracula"/>
+</p>
+
 
