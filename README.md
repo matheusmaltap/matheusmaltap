@@ -16,10 +16,11 @@
 ---
 
 ## Sobre mim
+Sempre tive muito contato com tecnologia, fui curioso, adorava games, sempre frequentei lan houses, devido a curiosidade aprendi a montar e desmontar computadores, o que me despertou um interesse muito grande na área, profissionalmente comecei minha carreira no ano de 2012 com 16 anos, onde tive o primeiro contato profissional com tecnologia onde através de um programa do SENAC pude entrar em uma grande empresa situada na minha cidade como estagiário la, trabalhei como suporte técnico, passei por outras empresas da cidade e assim fui desenvolvendo minha carreira, passando por Service Desk e Microinformática, até ter a oportunidade de voltar para a empresa que trabalhei como estagiário, dessa vez já formado e com uma nova paixão, programação e banco de dados, atuando na área e com certa experiencia, tive a oportunidade de começar a trabalhar suportando o sistema da empresa, o que me possibilitou aprender muito e especificamente em 2019 me dar a oportunidade de integrar o time de BI, tendo assim meu primeiro contato com Big Data, Engenharia de dados que é onde atuo hoje. Me considero uma pessoa muito empenhada, sempre tive rapidas promoções e destaque onde passei, nunca deixei o tempo ou a difucldade me vencer, sempre busquei me manter atualizado diante a evolução tecnologica.
 
-Sou Engenheiro de Dados com experiência sólida em ambientes corporativos e consultorias, atuando em projetos ágeis e de transformação digital. Minha especialização está em arquiteturas de dados em nuvem (Azure, Databricks e AWS), pipelines escaláveis, modelagem de dados e governança com frameworks como DAMA-DMBOK.
+Com o que trabalho hoje:
 
-Trabalho para transformar dados em ativos estratégicos, promovendo eficiência, rastreabilidade e valor de negócio com soluções modernas e sustentáveis.
+Atuação em arquiteturas de Data Lakehouse e Data Warehouse, com construção de pipelines escaláveis, ingestões batch e streaming e modelagem dimensional. Experiência em tomada de decisões sobre particionamento, organização de dados e tuning de performance, considerando impacto em custo e escalabilidade. Trabalho próximo a times analíticos e de negócio para transformar dados operacionais em ativos confiáveis, com foco em qualidade, governança e segurança, acompanhando a evolução de práticas e frameworks da área. Também tive oportundiade de trabalhar com Engenharia de IA, vetorização de textos, configuração de modelos, MCP e no geral sempre usando AI como acelerador de entregas de qualidade
 
 ---
 
