@@ -29,7 +29,7 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
   <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/twitter_thumb_201604_image.png" alt="ITIL 4 Foundation" height="100"/>
 </p>
 
-> 💡 Databricks Data Engineer Associate, Lakehouse Fundamentals, DP-600 Fabric Analytics, DP-900 Azure Data Fundamentals, AZ-900 Azure Fundamentals, ITIL 4 Foundation.
+> 💡Databricks Data Engineer Professional | Databricks Data Engineer Associate, Lakehouse Fundamentals, DP-600 Fabric Analytics, DP-900 Azure Data Fundamentals, AZ-900 Azure Fundamentals, ITIL 4 Foundation.
 
 ---
 
