@@ -1,4 +1,9 @@
-<h1 align="center">Olá, eu sou Matheus Malta! 👋</h1>
+<h1 align="center">Olá, eu sou Matheus Malta!</h1>
+<p align="center">
+  <img src="https://github.com/matheusmaltap/assets/certifications/1767963630713.jpg" alt="Matheus" height="100"/>
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusmalta96/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,7 +15,7 @@
 
 ---
 
-## 👨‍💼 Sobre mim
+## Sobre mim
 
 Sou Engenheiro de Dados com experiência sólida em ambientes corporativos e consultorias, atuando em projetos ágeis e de transformação digital. Minha especialização está em arquiteturas de dados em nuvem (Azure, Databricks e AWS), pipelines escaláveis, modelagem de dados e governança com frameworks como DAMA-DMBOK.
 
@@ -18,7 +23,7 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 
 ---
 
-## 🏆 Certificações
+## Certificações
 
 <p align="left">
   <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/professional-badge-de.png" alt="Databricks Data Engineer Professional" height="100"/>
@@ -33,7 +38,7 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -50,8 +55,3 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 
 ---
 
-## 📊 GitHub Status
-
-<p >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaltap&layout=compact&theme=dracula"/>
-</p>
