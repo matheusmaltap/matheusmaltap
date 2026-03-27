@@ -21,7 +21,7 @@ Trabalho para transformar dados em ativos estratégicos, promovendo eficiência,
 ## 🏆 Certificações
 
 <p align="left">
-  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/databricks.png" alt="Databricks Data Engineer Associate" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/professional-badge-de.png" alt="Databricks Data Engineer Professional" height="100"/>
   <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/fundamentals-badge-databricks-2x_1.png" alt="Lakehouse Fundamentals" height="100"/>
   <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/DP-600.png" alt="DP-600 Fabric Analytics" height="100"/>
   <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/img002_dp900.png" alt="DP-900 Azure Data Fundamentals" height="100"/>
