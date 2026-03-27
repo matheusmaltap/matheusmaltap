@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Matheus Malta!</h1>
 <p align="center">
-  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/matheus-malta.jpg" alt="Matheus" height="100"/>
+  <img src="https://github.com/matheusmaltap/matheusmaltap/blob/main/assets/certifications/matheus-malta.jpg" alt="Matheus" height="200"/>
 </p>
 
 
